@@ -8,11 +8,11 @@ body {
 }
 .cele {
     background: white;
-    width: 35%;
+    width: 500px;
     height: auto;
     margin: 0px auto;
     padding-left: 50px;
-    padding-bottom: 65px;
+    padding-bottom: 80px;
 }
 .reset {
     
@@ -78,4 +78,5 @@ body {
     font-size: 14px;
     font-weight: 500;
     color: #3D3D3D;
+    margin-top: 10px;
 }
